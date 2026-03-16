@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="na_logo_white.png" width="300" alt="NA" />
+<img src="na_logo_white.png" width="250" alt="NA" />
 
-### Nicolás Aller Ponte
+## Nicolás Aller Ponte
 
 `Data Engineer` · `A Coruña, Galicia` · `UDC`
 
