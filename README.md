@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="na_logo_white.png" width="1000" alt="NA" />
+<img src="na_logo_white.png" width="300" alt="NA" />
 
 `Data Engineer` · `A Coruña, Galicia` · `UDC`
 
