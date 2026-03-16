@@ -2,6 +2,8 @@
 
 <img src="na_logo_white.png" width="300" alt="NA" />
 
+### Nicolás Aller Ponte
+
 `Data Engineer` · `A Coruña, Galicia` · `UDC`
 
 *Data Science & Engineering student at UDC · AI Researcher at Cátedra Inditex-UDC*  
