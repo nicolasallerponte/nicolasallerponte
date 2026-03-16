@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="na_logo_white.png" width="250" alt="NA" />
+<img src="na_logo_white.svg" width="200" alt="NA" />
 
 ## Nicolás Aller Ponte
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasallerponte)
