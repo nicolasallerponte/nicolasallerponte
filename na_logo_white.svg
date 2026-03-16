@@ -1,0 +1,54 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- barra top sólida -->
+  <rect x="80" y="145" width="240" height="1" fill="white"/>
+
+  <!-- Nicolas (izq) -->
+  <text x="80" y="139"
+        font-family="'Palatino Linotype', 'Palatino', 'Book Antiqua', Georgia, serif"
+        font-size="9.5" font-weight="400" fill="white" letter-spacing="2" opacity="0.55"
+        text-anchor="start">NICOLÁS</text>
+
+  <!-- Aller (der) -->
+  <text x="320" y="139"
+        font-family="'Palatino Linotype', 'Palatino', 'Book Antiqua', Georgia, serif"
+        font-size="9.5" font-weight="400" fill="white" letter-spacing="2" opacity="0.55"
+        text-anchor="end">ALLER</text>
+
+  <!-- barra thin superior -->
+  <rect x="80" y="152" width="240" height="0.6" fill="white" opacity="0.2"/>
+
+  <!-- N -->
+  <text x="152" y="278"
+        font-family="'Cormorant Garamond', 'Palatino Linotype', 'Palatino', 'Book Antiqua', Georgia, serif"
+        font-size="152" font-weight="300" fill="white"
+        text-anchor="middle">N</text>
+
+  <!-- separador vertical -->
+  <rect x="199.5" y="172" width="0.8" height="60" fill="white" opacity="0.3"/>
+
+  <!-- A -->
+  <text x="248" y="278"
+        font-family="'Cormorant Garamond', 'Palatino Linotype', 'Palatino', 'Book Antiqua', Georgia, serif"
+        font-size="152" font-weight="300" fill="white"
+        text-anchor="middle">A</text>
+
+  <!-- barra thin inferior -->
+  <rect x="80" y="288" width="240" height="0.6" fill="white" opacity="0.2"/>
+
+  <!-- Data (izq) -->
+  <text x="80" y="300"
+        font-family="'Palatino Linotype', 'Palatino', 'Book Antiqua', Georgia, serif"
+        font-size="9.5" font-weight="400" fill="white" letter-spacing="2" opacity="0.55"
+        text-anchor="start">DATA</text>
+
+  <!-- Engineer (der) -->
+  <text x="320" y="300"
+        font-family="'Palatino Linotype', 'Palatino', 'Book Antiqua', Georgia, serif"
+        font-size="9.5" font-weight="400" fill="white" letter-spacing="2" opacity="0.55"
+        text-anchor="end">ENGINEER</text>
+
+  <!-- barra bottom sólida -->
+  <rect x="80" y="305" width="240" height="1" fill="white"/>
+
+</svg>
