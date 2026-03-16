@@ -1,18 +1,13 @@
 <div align="center">
 
-```
-─────────────────────────────
- N  │  A
-─────────────────────────────
-```
-
-### Nicolás Aller Ponte
+<img src="na_logo.png" width="120" alt="NA" />
 
 `Data Engineer` · `A Coruña, Galicia` · `UDC`
 
-*CS student building at the intersection of ML research and engineering.*  
-*Computer vision pipelines · representation learning · ML systems.*
+*Data Science & Engineering student at UDC · AI Researcher at Cátedra Inditex-UDC*  
+*Green algorithms · ML systems · representation learning.*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasallerponte)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599c?style=flat-square&logo=c&logoColor=white)
@@ -26,7 +21,7 @@
 
 | | |
 |---|---|
-| **ML / CV** | PyTorch · Transformers · CLIP · DINOv2 · SigLIP · FAISS · OpenCV |
+| **ML** | PyTorch · Transformers · CLIP · DINOv2 · SigLIP · FAISS |
 | **Data** | Python · NumPy · Pandas · SQL |
 | **Systems** | C · FastAPI · Flask · Docker |
 | **Infra** | SLURM · CESGA A100 · Kaggle · Git · uv |
@@ -101,5 +96,5 @@ Cache-aware matrix multiplication audit tool with a C engine simulating L1 cache
 ---
 
 <div align="center">
-<sub><code>A Coruña · Galicia · UDC</code> &nbsp;·&nbsp; <a href="https://linkedin.com/in/nicolasallerponte">LinkedIn</a></sub>
+<sub><code>A Coruña · Galicia · UDC</code></sub>
 </div>
