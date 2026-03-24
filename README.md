@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="na_logo_white (1).png" width="400" alt="NA" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo_transparent_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="logo_transparent_black.png">
+  <img src="logo_transparent_black.png" alt="NA Logo">
+</picture>
 
 ## Nicolás Aller Ponte
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasallerponte)
