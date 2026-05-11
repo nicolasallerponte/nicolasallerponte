@@ -11,7 +11,7 @@
 
 `Data Engineer` · `A Coruña, Galicia` · `UDC`
 
-*Data Science & Engineering @ UDC*  
+*Data Science & Engineering @ UDC | Ambassador @ Inditex Tech*  
 *Distributed Cloud/HPC · MLOps Architecture · Intelligent Agents*
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
