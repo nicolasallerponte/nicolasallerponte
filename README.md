@@ -13,6 +13,7 @@
 
 *Data Science & Engineering @ UDC | Data Engineer @ Inditex | Pull&Bear*  
 *M.Sc. in High Performance Computing @ UDC | USC*
+
 *Distributed Cloud/HPC · MLOps Architecture · Intelligent Agents*
 
 
