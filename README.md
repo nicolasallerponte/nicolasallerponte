@@ -11,8 +11,8 @@
 
 `Data Engineer` · `A Coruña, Galicia` · `UDC`
 
-*Data Science & Engineering @ UDC | Data Engineer @ Inditex | Pull&Bear*  
-*M.Sc. in High Performance Computing @ UDC | USC*
+*Data Science & Engineering @ UDC | M.Sc. in High Performance Computing @ UDC | USC*
+*Data & AI Engineer @ Inditex | Pull&Bear*
 
 *Distributed Cloud/HPC · MLOps Architecture · Intelligent Agents*
 
